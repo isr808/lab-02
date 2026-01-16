@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Ishan Raj`
+- **CCID:** `1827814`
 
 ## References and Resources
 
